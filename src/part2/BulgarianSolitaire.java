@@ -1,7 +1,5 @@
 // Rafayel Keshishyan 
-// 07 Bulgarian Solitaire (Part II) 
-// 6/9/2023 
-// CS/IS 112
+// Bulgarian Solitaire
 
 package part2;
 
